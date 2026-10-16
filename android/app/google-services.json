@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927188395632",
+    "project_id": "pemromobile-4ae1c",
+    "storage_bucket": "pemromobile-4ae1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927188395632:android:ec6bcf904b80e6754e76b5",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtTtNsIt7t2_KgiHCpkw0Bab8se2RD6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
